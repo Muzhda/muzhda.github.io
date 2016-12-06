@@ -8,6 +8,10 @@ body {
   margin:auto;
   background-position:center center;
 }
+
+img{
+  position:center;
+}
   
 h1 {
   font-family:Alex Brush;
