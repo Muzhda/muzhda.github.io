@@ -59,8 +59,8 @@ ul {
   overflow: hidden;
   padding-top:30px;
   position:fixed;
-  padding-left:25px;
-  font-size:15px;
+  padding-left:0px;
+  font-size:12px;
 }
 
 li {
