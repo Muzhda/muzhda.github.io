@@ -109,6 +109,15 @@ li a:hover {
   color:#ffffff;
 }
 
+.linkedin {
+  display:#000000;
+  color: #ffffff;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-family:Times;
+}
+
 /* Below codes are for aboutPage */
 
 
