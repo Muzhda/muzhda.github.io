@@ -14,6 +14,15 @@ img{
   padding-left:450px;
 }
 
+h1 {
+  font-family:Times;
+  color:#D2C950;
+  font-size:30px;
+  text-align:center;
+  padding-top: 40px;
+  padding-left:450px;         
+}
+
 h2 {
   color:#ffffff;
   font-size:25px;
@@ -22,17 +31,16 @@ h2 {
   padding-right:20px;
   font-family:Times;
 }
-  
-h1 {
+
+h3 {
   font-family:Times;
   color:#D2C950;
   font-size:30px;
   text-align:center;
-  padding-top: 40px;
-  padding-left:450px;
-           
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left:450px;         
 }
-
 
 p {
   letter-spacing: 0.31px;
